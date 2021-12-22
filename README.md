@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Celiandr0
-- 👀 I’m interested in informatics
+- 👀 I’m interested in informatics, videos games and pop culture
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on scripts for projects
+- 💞️ I’m looking to collaborate on scripts for projects on my raspbery pi 
 - 📫 How to reach me on intagram or snapchat with the same username that in my Github
 
 <!---
